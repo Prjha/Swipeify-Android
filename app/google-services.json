@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "466172723030",
+    "project_id": "labc-686ef",
+    "storage_bucket": "labc-686ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466172723030:android:b8ef42f7862a7dca7820f7",
+        "android_client_info": {
+          "package_name": "com.example.labc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466172723030-cvfce04vftm5qpjbma8pjt8jg6ufmoi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labc",
+            "certificate_hash": "ae1d9720fa0bab5b6a335889eab8cb4541446020"
+          }
+        },
+        {
+          "client_id": "466172723030-a5ips2c0jtm48ec019imotfpt3uh33ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPuyVzw5EuyZbaNa_WnwzJnKNfT4TOxAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466172723030-a5ips2c0jtm48ec019imotfpt3uh33ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

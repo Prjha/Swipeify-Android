@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Swipeify</string>
+    <string name="infoText">Welcome to the Swipeify app!\nIn order to use Swipeify to discover new music,\n you need to have spotify installed on your device.</string>
+    <string name="moreInfoText">Swipe right to save the song to your library.\nYou will find your new music under \"Liked Songs\"\nSwipe left if you did not like the song.</string>
+</resources>
